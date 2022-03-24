@@ -1,1 +1,1 @@
-non empty
+ALX school is cool and great
